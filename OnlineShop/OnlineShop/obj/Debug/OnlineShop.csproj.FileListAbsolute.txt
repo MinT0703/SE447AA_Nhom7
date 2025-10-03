@@ -1,0 +1,772 @@
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Microsoft.Win32.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\netstandard.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.AppContext.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Collections.Concurrent.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Collections.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Collections.NonGeneric.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Collections.Specialized.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.ComponentModel.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.ComponentModel.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Console.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Data.Common.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.Contracts.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.Debug.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.Process.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.StackTrace.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.Tools.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.TraceSource.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.Tracing.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Drawing.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Dynamic.Runtime.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Globalization.Calendars.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Globalization.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Globalization.Extensions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.Compression.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.Compression.ZipFile.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.FileSystem.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.IsolatedStorage.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.Pipes.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Linq.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Linq.Expressions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Linq.Parallel.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Linq.Queryable.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.Http.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.NameResolution.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.NetworkInformation.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.Ping.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.Requests.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.Security.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.Sockets.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.WebHeaderCollection.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.WebSockets.Client.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Net.WebSockets.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.ObjectModel.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Reflection.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Reflection.Extensions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Reflection.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Resources.Reader.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Resources.ResourceManager.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Resources.Writer.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Extensions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Handles.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.InteropServices.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Numerics.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Serialization.Json.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Claims.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.Csp.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Principal.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.SecureString.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Encoding.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Encoding.Extensions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.RegularExpressions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Overlapped.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Tasks.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Thread.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.ThreadPool.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Timer.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.ValueTuple.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Xml.ReaderWriter.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Xml.XDocument.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Xml.XmlDocument.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Xml.XmlSerializer.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Xml.XPath.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Xml.XPath.XDocument.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\MySql.Data.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\MySql.Data.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\stark\OneDrive\Desktop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Buffers.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Memory.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\MySql.Data.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\PolyfillsForOldDotNet.System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\PolyfillsForOldDotNet.System.Runtime.InteropServices.RuntimeInformation.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\stark\Downloads\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Buffers.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Memory.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\MySql.Data.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\stark\Documents\Zalo Received Files\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Buffers.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Memory.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\MySql.Data.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\stark\Documents\Zalo Received Files\đồ án\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\MySql.Data.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\PolyfillsForOldDotNet.System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\PolyfillsForOldDotNet.System.Runtime.InteropServices.RuntimeInformation.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Asus\Desktop\SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Buffers.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Memory.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\MySql.Data.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Asus\Downloads\Document\DA_SE397BJ\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Buffers.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Memory.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.Loader.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Channels.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\ZstdSharp.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.ValueTuple.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BCrypt.Net-Next.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.pdb
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Google.Protobuf.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\K4os.Hash.xxHash.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Buffers.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.IO.Pipelines.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Memory.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Numerics.Vectors.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.AccessControl.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Permissions.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Security.Principal.Windows.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Encodings.Web.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Text.Json.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Channels.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Asus\Downloads\Document\DA_SE447AA\OnlineShop-20250411T150225Z-001\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb

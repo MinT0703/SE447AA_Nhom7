@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|c:\\users\\asus\\downloads\\document\\da_se447aa\\onlineshop-20250411t150225z-001\\onlineshop\\onlineshop\\chinhsuadiachi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\chinhsuadiachi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\chinhsuadiachi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\chinhsuadiachi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\chatbot.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\chatbot.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\scripts\\chatbot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\scripts\\chatbot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\dichvu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\dichvu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\dichvu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\dichvu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\onlineshop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C49DA22-1284-40E9-9471-7DE4DFB3FA69}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chatbot.ashx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Chatbot.ashx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Chatbot.ashx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Chatbot.ashx.cs",
+              "RelativeToolTip": "OnlineShop\\Chatbot.ashx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:36:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "chatbot.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Scripts\\chatbot.js",
+              "RelativeDocumentMoniker": "OnlineShop\\Scripts\\chatbot.js",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Scripts\\chatbot.js",
+              "RelativeToolTip": "OnlineShop\\Scripts\\chatbot.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAG8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-29T04:20:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site1.master",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Site1.master",
+              "RelativeDocumentMoniker": "OnlineShop\\Site1.master",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Site1.master",
+              "RelativeToolTip": "OnlineShop\\Site1.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T17:09:07.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChinhSuaDiaChi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\ChinhSuaDiaChi.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\ChinhSuaDiaChi.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\ChinhSuaDiaChi.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\ChinhSuaDiaChi.aspx.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAIA3wLMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:58.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChinhSuaDiaChi.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\ChinhSuaDiaChi.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\ChinhSuaDiaChi.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\ChinhSuaDiaChi.aspx",
+              "RelativeToolTip": "OnlineShop\\ChinhSuaDiaChi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Details.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Details.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Details.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\Details.aspx.cs",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAowN0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Details.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\Details.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Details.aspx",
+              "RelativeToolTip": "OnlineShop\\Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dichvu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Dichvu.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Dichvu.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Dichvu.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\Dichvu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dichvu.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Dichvu.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\Dichvu.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Dichvu.aspx",
+              "RelativeToolTip": "OnlineShop\\Dichvu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:07:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GioHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\GioHang.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\GioHang.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\GioHang.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\GioHang.aspx.cs",
+              "ViewState": "AgIAALYBAAAAAAAAAAAYwMMBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\GioHang.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\GioHang.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\GioHang.aspx",
+              "RelativeToolTip": "OnlineShop\\GioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:43.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Login.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\Login.aspx.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Login.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\Login.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Login.aspx",
+              "RelativeToolTip": "OnlineShop\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:39.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Register.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\Register.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Register.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\Register.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Register.aspx",
+              "RelativeToolTip": "OnlineShop\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\SanPham.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\SanPham.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\SanPham.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\SanPham.aspx.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAswFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:26.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\SanPham.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\SanPham.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\SanPham.aspx",
+              "RelativeToolTip": "OnlineShop\\SanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:25.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\TaiKhoan.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\TaiKhoan.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\TaiKhoan.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\TaiKhoan.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoan.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\TaiKhoan.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\TaiKhoan.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\TaiKhoan.aspx",
+              "RelativeToolTip": "OnlineShop\\TaiKhoan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:21.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Home.aspx.cs",
+              "RelativeToolTip": "OnlineShop\\Home.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAtwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:17.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Home.aspx",
+              "RelativeDocumentMoniker": "OnlineShop\\Home.aspx",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Document\\DA_SE447AA\\OnlineShop-20250411T150225Z-001\\OnlineShop\\OnlineShop\\Home.aspx",
+              "RelativeToolTip": "OnlineShop\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-28T04:20:14.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
